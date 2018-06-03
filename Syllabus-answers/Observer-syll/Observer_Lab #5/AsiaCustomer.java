@@ -1,6 +1,5 @@
-package pkgObserverLab5;
 
-import pkgObserverClubMtg.Appointment;
+
 
 public class AsiaCustomer implements DecathlonObserver {
 	

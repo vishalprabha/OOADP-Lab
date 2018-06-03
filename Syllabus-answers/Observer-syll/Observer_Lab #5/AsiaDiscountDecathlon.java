@@ -1,4 +1,4 @@
-package pkgObserverLab5;
+
 
 public class AsiaDiscountDecathlon {
 	
