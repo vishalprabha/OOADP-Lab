@@ -4,8 +4,6 @@ public class MyMauritiusTax implements CalcTax {
 	double tax_amount=0.0;
 	@Override
 	public double taxAmount(String item, int qty, double price) {
-		// TODO Auto-generated method stub
-		
 		tax_amount = mt.calcTax(qty, price);
 		return tax_amount;
 	}
