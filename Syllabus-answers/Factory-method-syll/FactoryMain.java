@@ -1,5 +1,3 @@
-package pkgFactory;
-
 public class FactoryMain {
 	public static void main(String args[])
 	{
@@ -8,7 +6,6 @@ public class FactoryMain {
 	c=cf.category("Teen");
 
 	c=cf.category("kidds");
-	
+
 }
 	}
-

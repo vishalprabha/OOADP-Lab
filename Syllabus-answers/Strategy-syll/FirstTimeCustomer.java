@@ -1,6 +1,3 @@
-package Strategy;
-
-//The logic of DiscountType12 can vary, but the FirstTimeCustomer is always "tied" to it 
 public class FirstTimeCustomer extends DecathlonCustomer {
 	
 		

@@ -1,5 +1,3 @@
-package pkgFactory;
-
 public class CategoryFactory {
 
 	public Customer category(String ptype)
@@ -10,7 +8,7 @@ public class CategoryFactory {
 				return new Aged();
 		else if(ptype.equalsIgnoreCase("kidds"))
 			return new kidds();
-	
+
 		return null;
 	}
 }

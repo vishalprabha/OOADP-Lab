@@ -1,5 +1,3 @@
-package pkgFactory;
-
 public class Teens extends Customer
 {
 	public void printCustomer()
